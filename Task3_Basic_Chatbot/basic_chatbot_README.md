@@ -27,13 +27,6 @@ The objective of this project is to build an interactive chatbot that allows use
 
 - **Programming Language:** Python
 
-
-# Project Structure
-
-Basic_Chatbot/
-│── chatbot.py
-└── README.md
-
 # Sample Output
 
 ```text
