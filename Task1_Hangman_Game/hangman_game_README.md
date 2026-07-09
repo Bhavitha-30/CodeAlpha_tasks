@@ -66,7 +66,7 @@ Wrong Guess!
 
 Attempts Remaining: 5
 
-## 📚 Concepts Used
+## Concepts Used
 
 - Variables and Data Types
 - Lists and Strings
